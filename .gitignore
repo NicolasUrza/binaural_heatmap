@@ -1,0 +1,5 @@
+models/
+models/pose/body_25/pose_iter_584000.caffemodel
+models/face/pose_iter_116000.caffemodel
+models/hand/pose_iter_102000.caffemodel
+models/pose/coco/pose_iter_440000.caffemodel
